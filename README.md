@@ -1,5 +1,5 @@
 # CASSIE-Checker
-###A BASH script to check if a word is CASSIE-Safe
+### A BASH script to check if a word is CASSIE-Safe
 ---
 
 
@@ -19,5 +19,5 @@ to do it for you.
 
 Please do let me know if you have any issues running this program, as I've only tested it on my own computer, and if you run into any issues, I'd like to help!
 
-##Thank you for your time!
+## Thank you for your time!
 -SeaHay
